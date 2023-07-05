@@ -1,19 +1,29 @@
 h3{
     color: rgb(117, 11, 224);
     text-align: center;
+    border: 3px solid 20% olivedrab;
+    border-style: dotted;
+    
 }
 .dolor{
     background-color: rgb(28, 230, 28);
     margin: 2px;
     color:tomato;
     /* text-align: center; */
+    border: 1px solid black;
 }
 div{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     padding: 10px;
     max-resolution: 10px;
 }
 image{
-    width: 10px;
-    border: 2px solid tomato;
+    width: 2px;
+    /* border: 2px solid tomato; */
+}
+ul{
+    color:tomato;
+    font-style: italic;
+    border: 2px solid black;
+
 }
