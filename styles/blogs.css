@@ -5,6 +5,21 @@ h3{
     border-style: dotted;
     
 }
+.info{
+    padding: 1px;
+    margin: 0px;
+    input-security: auto;
+
+}
+h4{
+    margin: 0px;
+}
+.user{
+    text-align: center;
+    text-decoration: dashed;
+    color: green;
+    border: 2px solid blue;
+}
 .dolor{
     background-color: rgb(28, 230, 28);
     margin: 2px;
