@@ -13,3 +13,7 @@ div{
     padding: 10px;
     max-resolution: 10px;
 }
+image{
+    width: 10px;
+    border: 2px solid tomato;
+}
